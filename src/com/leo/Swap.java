@@ -5,10 +5,10 @@ public class Swap {
         int a = 10;
         int b = 20;
 
-        //swap code
-//        int temp = a;
-//        a = b;
-//        b = temp;
+        /* swap code */
+        int temp = a;
+        a = b;
+        b = temp;
         swap(a, b);
 
         System.out.println(a + " " + b);
