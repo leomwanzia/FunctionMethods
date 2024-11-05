@@ -5,6 +5,7 @@ public class Swap {
         int a = 10;
         int b = 20;
 
+        swap(a, b);
         /* swap code */
         int temp = a;
         a = b;
